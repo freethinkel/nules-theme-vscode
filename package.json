@@ -1,0 +1,26 @@
+{
+  "name": "nules",
+  "displayName": "nules",
+  "description": "Nules theme",
+  "version": "0.0.1",
+  "publisher": "freethinkel",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/freethinkel/nules-theme.git"
+  },
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nules",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nules_dark.json"
+      }
+    ]
+  }
+}
