@@ -1,8 +1,8 @@
 {
   "name": "nules",
-  "displayName": "nules",
+  "displayName": "Nules",
   "description": "Nules theme",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "freethinkel",
   "repository": {
     "type": "git",
@@ -11,8 +11,15 @@
   "engines": {
     "vscode": "^1.85.0"
   },
+  "icon": "./icon.png",
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "freethinkel",
+    "nules theme",
+    "super dark theme",
+    "dark theme"
   ],
   "contributes": {
     "themes": [
@@ -22,5 +29,9 @@
         "path": "./themes/nules_dark.json"
       }
     ]
+  },
+  "galleryBanner": {
+    "color": "#1B1B1B",
+    "theme": "dark"
   }
 }
