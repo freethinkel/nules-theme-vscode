@@ -2,7 +2,7 @@
   "name": "nules",
   "displayName": "nules",
   "description": "Nules theme",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "publisher": "freethinkel",
   "repository": {
     "type": "git",
@@ -17,9 +17,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Nules",
+        "label": "Nules dark",
         "uiTheme": "vs-dark",
         "path": "./themes/nules_dark.json"
+      },
+      {
+        "label": "Nules light",
+        "uiTheme": "vs",
+        "path": "./themes/nules_light.json"
       }
     ]
   }
