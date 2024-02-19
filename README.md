@@ -1,4 +1,5 @@
-<div class="center">
+<div align="center">
+
 # Nules Theme
 
 Calm forest theme for vscode.
