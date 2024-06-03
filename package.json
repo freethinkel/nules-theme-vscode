@@ -27,6 +27,11 @@
         "label": "Nules dark",
         "uiTheme": "vs-dark",
         "path": "./themes/nules_dark.json"
+      },
+      {
+        "label": "Nules light",
+        "uiTheme": "vs",
+        "path": "./themes/nules_light.json"
       }
     ]
   },
