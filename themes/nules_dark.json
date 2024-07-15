@@ -114,7 +114,7 @@
     "statusBar.noFolderBackground": "#1f1f1f",
     "statusBarItem.focusBorder": "#e00606",
     "statusBarItem.prominentBackground": "#6e768166",
-    "statusBarItem.remoteBackground": "#0078d4",
+    "statusBarItem.remoteBackground": "#009e6c",
     "statusBarItem.remoteForeground": "#ffffff",
     "tab.activeBackground": "#1f1f1f",
     "tab.activeBorder": "#1f1f1f",
@@ -148,6 +148,11 @@
     "welcomePage.tileBackground": "#2b2b2b",
     "widget.border": "#313131",
     "pickerGroup.foreground": "#75FB9F",
+    "debugIcon.breakpointForeground": "#ff8080",
+    "editor.linkedEditingBackground": "#ffc79920",
+    "editor.wordHighlightBackground": "#ffc79920",
+    "editor.wordHighlightStrongBackground": "#ffc79920",
+
     // DIFF
     "diffEditor.insertedLineBackground": "#00ff951e",
     "diffEditor.insertedTextBackground": "#00ff951e",
@@ -159,6 +164,10 @@
     "notificationsInfoIcon.foreground": "#75FB9F",
 
     "gitDecoration.untrackedResourceForeground": "#75FB9F",
+    "gitDecoration.modifiedResourceForeground": "#ffc799",
+    "gitDecoration.addedResourceForeground": "#75FB9F",
+    "gitDecoration.stageModifiedResourceForeground": "#ffc799",
+    "gitDecoration.conflictingResourceForeground": "#ff8080",
 
     "terminal.ansiBlack": "#353535",
     "terminal.ansiRed": "#ff8080",
@@ -410,7 +419,7 @@
     {
       "scope": ["markup.inserted"],
       "settings": {
-        "foreground": "#fffeaa"
+        "foreground": "#75FB9F"
       }
     },
     {
