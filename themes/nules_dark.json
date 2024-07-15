@@ -169,6 +169,10 @@
     "gitDecoration.stageModifiedResourceForeground": "#ffc799",
     "gitDecoration.conflictingResourceForeground": "#ff8080",
 
+    "list.warningForeground": "#FA973B",
+    "editorWarning.background": "#FA973B20",
+    "editorWarning.foreground": "#FA973B",
+
     "terminal.ansiBlack": "#353535",
     "terminal.ansiRed": "#ff8080",
     "terminal.ansiGreen": "#A1FFC1",
