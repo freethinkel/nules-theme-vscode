@@ -7,7 +7,6 @@
 Calm forest theme for vscode.
 
 ![preview-dark](./screenshots/nules_dark.png)
+![preview-light](./screenshots/nules_light.png)
 
 </div>
-
-## White theme is in progress
